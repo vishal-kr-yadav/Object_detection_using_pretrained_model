@@ -4,7 +4,7 @@
     <list default="true" id="a67bb73e-0554-443b-be95-1ee53c350ff1" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/models/research/object_detection/object_detection_tutorial.ipynb" afterPath="$PROJECT_DIR$/models/research/object_detection/object_detection_tutorial.ipynb" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="false" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
